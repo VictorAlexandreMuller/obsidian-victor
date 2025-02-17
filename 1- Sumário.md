@@ -29,7 +29,8 @@ Ctrl L cria lista de tarefas
 ```aaa
 
 ```
-crazes triplas para blocos de códigos
+crazes triplas para blocos de códigos grandes e faceis de copiar
+crazes simples para blocos de codigos inline
 
 
 bota#tag já te leva direto pra tag daquela nota
